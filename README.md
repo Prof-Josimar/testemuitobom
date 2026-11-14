@@ -1,7 +1,7 @@
 # sfin - Sistema de Finanças (em desenvolvimento) 
  
 ## Informações do sistema 
-- Data e hora: 14/11/2026 18:59:27,79 
+- Data e hora: 14/11/2026 19:00:08,70 
 - Usuário: admin 
 - Computador: ACER-LAP 
 - Diretório atual: C:\dev\java\testemuitobom 
@@ -16,7 +16,7 @@ Josimar Ribeiro
 - Build: 19044.7846 
 - Detalhes: 19041.1.amd64fre.vb_release.191206-1406 
  
-Usando : Netbeans 12 +  Tomcat 9 e Java 11 
+Usando : Netbeans 21 +  Tomcat 9 e Java 21 
  
 OBS : atalho para out.println(""); 
  
