@@ -1,10 +1,10 @@
-# sfin - Sistema de Finan�as (em desenvolvimento) 
+# sfin - Sistema de Finanças (em desenvolvimento) 
  
-## Informa��es do sistema 
-- Data e hora: 14/11/2026 18:58:41,75 
-- Usu�rio: admin 
+## Informações do sistema 
+- Data e hora: 14/11/2026 18:59:27,79 
+- Usuário: admin 
 - Computador: ACER-LAP 
-- Diret�rio atual: C:\dev\java\testemuitobom 
+- Diretório atual: C:\dev\java\testemuitobom 
 - git version 2.52.0.windows.1 
  
 <img src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/310597043/original/d3aa29b66783cc7d6e28fd86b4818742dbbf8f68/develop-spring-boot-web-application-with-spring-security-thymleaf-mysql.png" width="300"> 

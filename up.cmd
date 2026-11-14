@@ -1,10 +1,9 @@
-
 chcp 65001 >nul
 @echo off
 title Gerador de README - Projeto Java LP2 2026
 
-REM === Configurações ===
-set "project_name=sfin - Sistema de Finanças (em desenvolvimento)"
+REM === ConfiguraÃ§Ãµes ===
+set "project_name=sfin - Sistema de FinanÃ§as (em desenvolvimento)"
 set "author=Josimar Ribeiro"
 set "save_path=%CD%"
 set "date_time=%DATE% %TIME%"
@@ -16,11 +15,11 @@ set "filename=README.md"
 REM === Cria o README.md ===
 echo # %project_name% > "%filename%"
 echo. >> "%filename%"
-echo ## Informações do sistema >> "%filename%"
+echo ## InformaÃ§Ãµes do sistema >> "%filename%"
 echo - Data e hora: %date_time% >> "%filename%"
-echo - Usuário: %USERNAME% >> "%filename%"
+echo - UsuÃ¡rio: %USERNAME% >> "%filename%"
 echo - Computador: %COMPUTERNAME% >> "%filename%"
-echo - Diretório atual: %CD% >> "%filename%"
+echo - DiretÃ³rio atual: %CD% >> "%filename%"
 for /f "tokens=* delims=" %%g in ('git --version') do echo - %%g >> "%filename%"
 echo. >> "%filename%"
 
@@ -46,7 +45,6 @@ echo Usando : Netbeans 12 +  Tomcat 9 e Java 11 >> "%filename%"
 echo. >> "%filename%"
 echo OBS : atalho para out.println(""); >> "%filename%"
 echo. >> "%filename%"
-
 
 ::git init
 git add . -v
