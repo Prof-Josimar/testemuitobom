@@ -1,7 +1,7 @@
 # sfin - Sistema de Finan�as (em desenvolvimento) 
  
 ## Informa��es do sistema 
-- Data e hora: 14/11/2026 18:56:50,93 
+- Data e hora: 14/11/2026 18:58:41,75 
 - Usu�rio: admin 
 - Computador: ACER-LAP 
 - Diret�rio atual: C:\dev\java\testemuitobom 

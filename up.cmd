@@ -52,5 +52,5 @@ echo. >> "%filename%"
 git add . -v
 git commit -m "first commit"
 git branch -M main
-::git remote add origin https://github.com/Prof-Josimar/testemuitobom.git
+git remote set-url origin https://github.com/Prof-Josimar/testemuitobom.git
 git push -u origin main
